@@ -1,5 +1,5 @@
 # griddlers_solver_app
-use python 3.7 and above.
+use python 3.7 or above.
 to run the app use the command: python griddlers_solver.py --input flower2.txt
 
 --input - the input file which contains the constraints for the griddler. i gave 3 input file examples.
@@ -27,4 +27,4 @@ File.txt:
 ![alt text](https://drive.google.com/file/d/10P86njS3IV2Trc9-S7knaT6RE349T3h1/view?usp=sharing)
 
 
-every 50 generations the best solution found so far will be presented.
+every 50 generations the best solution founded so far will be presented.
