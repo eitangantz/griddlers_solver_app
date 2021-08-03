@@ -22,4 +22,31 @@ the next 25 lines are the constraints for the 25 rows(from top to bottom).
 every 50 generations the best solution founded so far will be presented.
 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+<b>input file example<b/>:
+
+input.txt:
+</br>
+3
+</br>
+2 2
+</br>
+1 1
+</br>
+2 2
+</br>
+3
+</br>
+3
+</br>
+2 2
+</br>
+1 1
+</br>
+2 2
+</br>
+3
+</br>
+the corresponding  griddler:
+</br>
+
+![alt text](https://github.com/eitangantz/griddlers_solver_app/blob/master/image.png)
