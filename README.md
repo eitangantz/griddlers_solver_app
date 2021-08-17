@@ -23,7 +23,7 @@ the first 25 lines are the constraints for the 25 columns(from left to right).
 the next 25 lines are the constraints for the 25 rows(from top to bottom).
 </br>
 </br>
-every 50 generations the best solution founded so far will be presented.
+every 50 generations the best solution found so far will be presented.
 
 
 <b>input file example<b/>:
